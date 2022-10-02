@@ -1,3 +1,4 @@
+#777doge:on|1.0|https:
 #1xbitcoins:on|1.0|https:
 #autobitco:on|1.0|https:
 #autoclaim:on|1.0|https:
